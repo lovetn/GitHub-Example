@@ -12,6 +12,7 @@
 		6B8AC1212141CBDA00F46672 /*  main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B8AC11F2141CBDA00F46672 /*  main.storyboard */; };
 		6B8AC1232141CBDB00F46672 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B8AC1222141CBDB00F46672 /* Assets.xcassets */; };
 		6B8AC1262141CBDB00F46672 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B8AC1242141CBDB00F46672 /* LaunchScreen.storyboard */; };
+		6BC5D1FA2143070E0087D41A /* iu-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BC5D1F92143070E0087D41A /* iu-2.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6B8AC1222141CBDB00F46672 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B8AC1252141CBDB00F46672 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B8AC1272141CBDB00F46672 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BC5D1F92143070E0087D41A /* iu-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "iu-2.jpeg"; path = "../../../Downloads/iu-2.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6B8AC11F2141CBDA00F46672 /*  main.storyboard */,
 				6B8AC1222141CBDB00F46672 /* Assets.xcassets */,
 				6B8AC1242141CBDB00F46672 /* LaunchScreen.storyboard */,
+				6BC5D1F92143070E0087D41A /* iu-2.jpeg */,
 				6B8AC1272141CBDB00F46672 /* Info.plist */,
 			);
 			path = "GitHub Example";
@@ -124,6 +127,7 @@
 			files = (
 				6B8AC1262141CBDB00F46672 /* LaunchScreen.storyboard in Resources */,
 				6B8AC1232141CBDB00F46672 /* Assets.xcassets in Resources */,
+				6BC5D1FA2143070E0087D41A /* iu-2.jpeg in Resources */,
 				6B8AC1212141CBDA00F46672 /*  main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
